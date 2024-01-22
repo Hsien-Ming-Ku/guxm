@@ -19,7 +19,7 @@ Syntax highlighted code block
 - List
 
 1. Publication
-2. List
+2. XXXXXXX, Title, Journal name, 2023
 
 **Bold** and _Italic_ and `Code` text
 
